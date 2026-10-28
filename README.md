@@ -3,8 +3,9 @@ Microsoft Excel Finance Analytics project featuring AtliQ Hardwares P&amp;L anal
 
  **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/Vrunda1519/Finance-Analytics--Microsoft-Excel/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)
-    **2.** Create Profit and Loss (P&L) reports by _[Markets](_
+    1. Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/Vrunda1519/Finance-Analytics--Microsoft-Excel/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)
+    2.Create Profit and Loss (P&L) reports by _[Markets]
+    3. Create Profit and Loss (P&L) reports by _[Months](
 
   
  **3.** Create Profit and Loss (P&L) reports by _[Months](
